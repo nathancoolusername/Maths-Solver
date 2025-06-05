@@ -1,16 +1,19 @@
-Maths Solver 🧮
+Maths Solver 🧮:
+
 Maths Solver is a web application that extracts and solves mathematical expressions from images. It leverages Optical Character Recognition (OCR) to detect math problems in pictures and provides solutions through a user-friendly interface.
 
-🚀 Features
+🚀 Features:
+
 Upload images containing mathematical expressions
 
 Automatic detection and extraction of math problems using OCR
 
-Solves basic arithmetic expressions
+Solves arithmetic expressions
 
 Web interface built with Flask
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python
 
 Flask
@@ -19,7 +22,7 @@ Tesseract OCR
 
 HTML/CSS
 
-📦 Installation
+📦 Installation:
 
 Clone the repository:
 
